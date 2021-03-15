@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "私有目录创建文件"
